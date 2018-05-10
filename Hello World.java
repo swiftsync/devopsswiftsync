@@ -1,7 +1,7 @@
 public class HelloWorld
 {
 	public static void main(String[] args) {
-		 System.out.println("FIxed is issue at card Update DEF17 2nd Upgrade1");
+		 System.out.println("FIxed is issue at card Update DEF17 2nd update");
 		 System Update!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 	}
 }
