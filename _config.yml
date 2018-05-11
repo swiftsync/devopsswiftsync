@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+job:
+    script:
+       - curl "http://localhost:8080/job/devopsswiftsync/buildWithParameters?token=SwiftKanban&Entity_Type=KanbanDefect"
