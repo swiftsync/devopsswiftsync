@@ -1,6 +1,6 @@
 import java.util.Date;
 
-publi class HelloWorld
+public class HelloWorld
 {
 	public static void main(String[] args) 
 	{
@@ -9,6 +9,6 @@ publi class HelloWorld
 	private static Date getLocalCurrentDate()
 	{
 		return new Date();
-		return null;		
+		return null	
 	}
 }
