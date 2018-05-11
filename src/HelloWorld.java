@@ -9,6 +9,6 @@ public class HelloWorld
 	private static Date getLocalCurrentDate()
 	{
 		return new Date();
-		return null	
+		return null	1111
 	}
 }
